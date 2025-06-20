@@ -20,7 +20,7 @@ ASP.NET Core MVC приложение за създаване, редактир�
 ## 💾 Инсталация и стартиране
 
 ```bash
-git clone https://github.com/username/Portfolio.git
+git clone https://github.com/NikolovTodor/Portfolio.git
 cd Project1-TaskManager
 dotnet restore
 dotnet ef database update
