@@ -1,0 +1,24 @@
+BlogAPI/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── database.py
+│   ├── crud/
+│   │   ├── __init__.py
+│   │   ├── users.py
+│   │   ├── posts.py
+│   │   └── comments.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── users.py
+│   │   ├── posts.py
+│   │   └── comments.py
+│   └── auth.py
+├── tests/
+│   └── test_api.py
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
